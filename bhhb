@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/hghu.git
 git push -u origin main
-warp://ml.amirhossein77.ir:11999/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a1&&detour=warp://ml.amirhossein77.ir:11999/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a2
+warp://ml.amirhossein77.ir:11999?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a1&&detour=warp://ml.amirhossein77.ir:11999?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a2
